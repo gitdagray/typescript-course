@@ -25,7 +25,7 @@
 
 ### Description
 
-📺 [YouTube Playlist]() for this repository.
+📺 [YouTube Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b) for this repository.
 
 🚀 This repository shares ALL of the resources referenced during the Typescript for Beginners tutorial series.
 
@@ -59,4 +59,4 @@
 
 ### 💻 Source Code
 
-- 🔗 [Chapter 1 - Introduction, Setup & Config]()
+- 🔗 [Chapter 1 - Introduction, Setup & Config](https://github.com/gitdagray/typescript-course/tree/main/lesson01)
