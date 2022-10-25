@@ -61,4 +61,4 @@
 
 - 🔗 [Chapter 1 - Introduction, Setup & Config](https://github.com/gitdagray/typescript-course/tree/main/lesson01)
 - 🔗 [Chapter 2 - Basic Types](https://github.com/gitdagray/typescript-course/tree/main/lesson02)
-- 🔗 [Chapter 3 - Arrays & Objects](https://github.com/gitdagray/typescript-course/tree/main/lesson03)
+- 🔗 [Chapter 3 - Arrays, Tuples, Objects & Enums](https://github.com/gitdagray/typescript-course/tree/main/lesson03)
