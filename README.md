@@ -54,6 +54,7 @@
 - 🔗 [MDN - Static Typing](https://developer.mozilla.org/en-US/docs/Glossary/Static_typing)
 - 🔗 [MDN - Dynamic Typing](https://developer.mozilla.org/en-US/docs/Glossary/Dynamic_typing)
 - 🔗 [MDN - Type Coercion](https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion)
+- 🔗 [TypeScript - Type Assertions](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-assertions)
 
 ---
 
@@ -63,3 +64,4 @@
 - 🔗 [Chapter 2 - Basic Types](https://github.com/gitdagray/typescript-course/tree/main/lesson02)
 - 🔗 [Chapter 3 - Arrays, Tuples, Objects & Enums](https://github.com/gitdagray/typescript-course/tree/main/lesson03)
 - 🔗 [Chapter 4 - Type Aliases, Literals, Functions & Never Type](https://github.com/gitdagray/typescript-course/tree/main/lesson04)
+- 🔗 [Chapter 5 - Type Assertions & Type Casting](https://github.com/gitdagray/typescript-course/tree/main/lesson05)
