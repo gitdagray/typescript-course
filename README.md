@@ -66,3 +66,4 @@
 - 🔗 [Chapter 4 - Type Aliases, Literals, Functions & Never Type](https://github.com/gitdagray/typescript-course/tree/main/lesson04)
 - 🔗 [Chapter 5 - Type Assertions & Type Casting](https://github.com/gitdagray/typescript-course/tree/main/lesson05)
 - 🔗 [Chapter 6 - Classes & Interfaces](https://github.com/gitdagray/typescript-course/tree/main/lesson06)
+- 🔗 [Chapter 7 - Index Signatures & keyof Assertions](https://github.com/gitdagray/typescript-course/tree/main/lesson07)
