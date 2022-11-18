@@ -32,6 +32,9 @@ const recordAssignment = (assign: Required<Assignment>): Assignment => {
 
 const assignVerified: Readonly<Assignment> = { ...assignGraded, verified: true }
 
+// NOTE: assignVerified won't work with recordAssignment!
+// Why? Try it and see what TS tells you :)
+
 recordAssignment({ ...assignGraded, verified: true })
 
 // Record 
