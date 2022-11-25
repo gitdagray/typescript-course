@@ -69,3 +69,5 @@
 - 🔗 [Chapter 7 - Index Signatures & keyof Assertions](https://github.com/gitdagray/typescript-course/tree/main/lesson07)
 - 🔗 [Chapter 8 - Generics](https://github.com/gitdagray/typescript-course/tree/main/lesson08)
 - 🔗 [Chapter 9 - Utility Types](https://github.com/gitdagray/typescript-course/tree/main/lesson09)
+- 🔗 Chapter 10 - Vite Introduction (no source code)
+- 🔗 [Chapter 11 - Beginners Project / Challenges](https://github.com/gitdagray/typescript-course/tree/main/lesson11)
