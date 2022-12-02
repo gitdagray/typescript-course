@@ -38,7 +38,7 @@
 ---
 
 ### ⚙ Free Web Dev Tools
-
+- 🔗 [Vite](https://vitejs.dev/)
 - 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
 - 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
 - 🔗 [Live Server VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
@@ -71,3 +71,4 @@
 - 🔗 [Chapter 9 - Utility Types](https://github.com/gitdagray/typescript-course/tree/main/lesson09)
 - 🔗 Chapter 10 - Vite Introduction (no source code)
 - 🔗 [Chapter 11 - Beginners Project / Challenges](https://github.com/gitdagray/typescript-course/tree/main/lesson11)
+- 🔗 [Chapter 12 - React + Typescript Starter](https://github.com/gitdagray/typescript-course/tree/main/lesson12)
