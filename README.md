@@ -49,6 +49,8 @@
 - 🔗 [Node.js & npm](https://nodejs.org/)
 - 🔗 [Anders Hejlsberg, Creator of Typescript and C# Interview](https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-named-anders-hejlsberg-42g4)
 - 🔗 [Stackoverflow Survey Results](https://survey.stackoverflow.co/2022/#technology-most-popular-technologies)
+- - 🔗 [TypeScript + React Cheatsheet](https://github.com/typescript-cheatsheets/react)
+- 🔗 [React Official Site](https://reactjs.org/)
   
 ### 📚 Terminology
 - 🔗 [MDN - Static Typing](https://developer.mozilla.org/en-US/docs/Glossary/Static_typing)
@@ -72,3 +74,4 @@
 - 🔗 Chapter 10 - Vite Introduction (no source code)
 - 🔗 [Chapter 11 - Beginners Project / Challenges](https://github.com/gitdagray/typescript-course/tree/main/lesson11)
 - 🔗 [Chapter 12 - React + Typescript Starter](https://github.com/gitdagray/typescript-course/tree/main/lesson12)
+- 🔗 [Chapter 13 - React Hooks + Typescript](https://github.com/gitdagray/typescript-course/tree/main/lesson13)
