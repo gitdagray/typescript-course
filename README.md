@@ -76,6 +76,7 @@
 - 🔗 [Chapter 12 - React + Typescript Starter](https://github.com/gitdagray/typescript-course/tree/main/lesson12)
 - 🔗 [Chapter 13 - React Hooks + Typescript](https://github.com/gitdagray/typescript-course/tree/main/lesson13)
 - 🔗 [Chapter 14 - React useReducer + Typescript](https://github.com/gitdagray/typescript-course/tree/main/lesson14)
+- 🔗 [Chapter 15 - React useContext + Typescript](https://github.com/gitdagray/typescript-course/tree/main/lesson15)
 
 
 ### 🎉 Bonus!
