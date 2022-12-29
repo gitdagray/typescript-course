@@ -5,7 +5,7 @@ type StateType = {
     text: string;
 }
 
-export const initState: StateType = { count: 0, text: '' }
+const initState: StateType = { count: 0, text: '' }
 
 const enum REDUCER_ACTION_TYPE {
     INCREMENT,
@@ -64,8 +64,8 @@ type ChildrenType = {
 }
 
 export const CounterProvider = ({
-    children, ...initState
-}: ChildrenType & StateType): ReactElement => {
+    children
+}: ChildrenType): ReactElement => {
     return (
         <CounterContext.Provider value={useCounterContext(initState)}>
             {children}
