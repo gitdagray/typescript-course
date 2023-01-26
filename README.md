@@ -1,6 +1,6 @@
 # "Typescript for Beginners"
 
-### Full Course - ?? Chapters
+### Full Course - 17 Chapters
 
 ---
 
@@ -29,6 +29,13 @@
 
 🚀 This repository shares ALL of the resources referenced during the Typescript for Beginners tutorial series.
 
+👉 Chapters 1-10 introduce TypeScript fundamentals. 
+👉 Chapters 12-17 cover Typescript with React. 
+
+### 📚 Recommended Pre-requisites
+- 🔗 [JavaScript for Beginners Course](https://youtu.be/EfAl9bwzVZk)
+- 🔗 [React for Beginners Course](https://youtu.be/RVFAyFWO4go)
+
 ---
 
 ### 🎓 Academic Honesty
@@ -42,7 +49,6 @@
 - 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
 - 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
 - 🔗 [Live Server VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-
 
 ### 📚 References
 - 🔗 [Typescript Official Site](https://www.typescriptlang.org/)
