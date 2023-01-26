@@ -29,8 +29,8 @@
 
 🚀 This repository shares ALL of the resources referenced during the Typescript for Beginners tutorial series.
 
-👉 Chapters 1-10 introduce TypeScript fundamentals. 
-👉 Chapters 12-17 cover Typescript with React. 
+- 👉 Chapters 1-10 introduce TypeScript fundamentals. 
+- 👉 Chapters 12-17 cover Typescript with React. 
 
 ### 📚 Recommended Pre-requisites
 - 🔗 [JavaScript for Beginners Course](https://youtu.be/EfAl9bwzVZk)
