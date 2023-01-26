@@ -32,7 +32,7 @@
 - 👉 Chapters 1-10 introduce TypeScript fundamentals. 
 - 👉 Chapters 12-17 cover Typescript with React. 
 
-### 📚 Recommended Pre-requisites
+### 📚 Recommended Prerequisites
 - 🔗 [JavaScript for Beginners Course](https://youtu.be/EfAl9bwzVZk)
 - 🔗 [React for Beginners Course](https://youtu.be/RVFAyFWO4go)
 
