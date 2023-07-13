@@ -55,7 +55,7 @@
 - 🔗 [Node.js & npm](https://nodejs.org/)
 - 🔗 [Anders Hejlsberg, Creator of Typescript and C# Interview](https://dev.to/destrodevshow/typescript-and-c-both-created-by-the-same-person-named-anders-hejlsberg-42g4)
 - 🔗 [Stackoverflow Survey Results](https://survey.stackoverflow.co/2022/#technology-most-popular-technologies)
-- - 🔗 [TypeScript + React Cheatsheet](https://github.com/typescript-cheatsheets/react)
+- 🔗 [TypeScript + React Cheatsheet](https://github.com/typescript-cheatsheets/react)
 - 🔗 [React Official Site](https://reactjs.org/)
   
 ### 📚 Terminology
@@ -84,7 +84,7 @@
 - 🔗 [Chapter 14 - React useReducer + Typescript](https://github.com/gitdagray/typescript-course/tree/main/lesson14)
 - 🔗 [Chapter 15 - React useContext + Typescript](https://github.com/gitdagray/typescript-course/tree/main/lesson15)
 - 🔗 [Chapter 16 - React + Typescript Project - Part 1](https://github.com/gitdagray/typescript-course/tree/main/lesson16)
-
+- 🔗 [Chapter 17 - React + Typescript Project - Part 2](https://github.com/gitdagray/typescript-course/tree/main/lesson17)
 
 ### 🎉 Bonus!
 - 🔗 [TypeScript "as const" Assertions - Youtube Short](https://youtube.com/shorts/jEuIp5NU3TU)
