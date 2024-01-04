@@ -65,92 +65,81 @@
 - 🔗 [TypeScript - Type Assertions](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-assertions)
 
 ---
-### Notes
-# Chapter-1 [ Start Here ]
 
-- Created by Microsoft
-- Andres Hejlsberg - Typescirpt & C#
-- Strictly typed
-- Build - compiled codes
-- src - raw files eg . ts
-- tsc [ts file name] -w
-- tsc —init - Config file
-- outDir rootDir for specifying folders of the ts and js file
-- we can simply run tsc -w it will compile all files which is inside of the rootDir
-- Normally compiles file which are not in src too
-- FIX: go to ts config atlast create include array and include src
-- versions js can also be modified "target": "es2016",
-- noEmitOnError:true will not also compile if there is an error in the ts file , otherwise it will compile and give the js
+Chapter-1 [🚀 Start Here 🚀]
+Created by Microsoft 💻
+Andres Hejlsberg - TypeScript & C# 🧑‍💻
+Strictly typed ✅
+Build - compiled codes 🛠️
+src - raw files e.g., .ts 📄
+tsc [ts file name] -w - Watch for changes and compile 🔄
+tsc —init - Config file ⚙️
+outDir & rootDir for specifying folders of the ts and js file 📂
+Run tsc -w to compile all files inside the rootDir 🚀
+FIX: Go to ts config, create an include array, and include src 🛠️
+Versions of js can also be modified: "target": "es2016" 🎯
+noEmitOnError:true - Will not compile if there is an error in the ts file 🚫, otherwise, it will compile and give the js 📄
+Chapter-2 [Basic Types]
+Strongly typed (ts), loosely typed (js) 🧱
 
-# Chapter-2 [Basic Types]
+Both have statically typed and dynamically typed languages 🔄
 
-- Strongly typed -ts, loosely typed - js
-    
-    but both have statically typed and dynamically typed languages
-    
-    js is dynamically typed - types are checked at run time
-    
-    ts is statically typed - types are checked at compile time
-    
-- string , number , boolean , any
-- if it doesn’t knows the type it will make as any
-- Union type - ( | )- assign or types for it
+JS is dynamically typed - types are checked at runtime ⏱️
 
-# Chapter-3 [Arrays & Objects]
+TS is statically typed - types are checked at compile time 🛠️
 
-## Arrays
+string, number, boolean, any 🔤🔢🔄❓
 
-- array.unshift()→ add element to the beginning of array
-- let array1:string[] =[]
-- let array2:(string | number )[]=[]
-- ~~array1=array2~~ not acceptable
-- array2=array1 - acceptable
+If it doesn’t know the type, it will default to any 🤷
 
-## Tuples
+Union type - (|) - Assign or types for it ➕➖
 
-- let myTuple:[string,number,boolean]→follows the order
-- tuple can be assigned to the array
-- but array can’t be assigned to tuple
-
-## Objects
-
-- let myObject:object, let myObject:{}
-- let obj:{ prop1:number,prop2:string }
-- type is used to create the type of obj or anything in advance
-- at type (=) is used
-
-```
-type myobject**=**{
-    name:string,
-    id:number
+Chapter-3 [Arrays & Objects]
+Arrays
+array.unshift() → Add element to the beginning of the array 🔄
+let array1: string[] = [] 📜
+let array2: (string | number)[] = [] 📜
+~~array1 = array2~~ - Not acceptable ❌
+array2 = array1 - Acceptable ✅
+Tuples
+let myTuple: [string, number, boolean] → Follows the order 🔄
+Tuple can be assigned to the array 📜
+Array can’t be assigned to tuple ❌
+Objects
+let myObject: object, let myObject: {} 📦
+let obj: { prop1: number, prop2: string } 🔄
+type is used to create the type of obj or anything in advance ⚙️
+At type (=) is used ➡️
+typescript
+Copy code
+type myobject = {
+    name: string,
+    id: number
 }
 
-let obj1:myobject={
-    name:'harith',
-    id:1
+let obj1: myobject = {
+    name: 'harith',
+    id: 1
 }
-```
-
-- can exist or undefined id?:number either its number or undefined (we dont add it in object it works)
-- ?→used wherever the obj can be undefined
-- Instead of type we can also use interface but no (=) needed,both works as the name
-
-```jsx
-interface myobject{
-    name:string,
-    id:number
+Can exist or be undefined id?: number - Either it's a number or undefined ❓
+? → Used wherever the obj can be undefined ❓
+Instead of type, we can also use interface. Both work as the name ➡️
+typescript
+Copy code
+interface myobject {
+    name: string,
+    id: number
 }
 
-let obj1:myobject={
-    name:'harith',
-    id:1
+let obj1: myobject = {
+    name: 'harith',
+    id: 1
 }
-```
+Enums
+To create a small set of predefined values 🌐
+Additional feature provided by TS, not available in JS 🧩
 
-## Enums
-
-- To create small set of predefined values
-- It is the additional feauture provided by ts which is not available in js
+---
 
 ### 💻 Source Code
 
